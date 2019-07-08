@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vim 与中文输入法"
+title: "黄思敏和梁昆的快乐生活"
 subtitle: 'Using Vim with non-english input method'
 author: "Hux"
 header-style: text
