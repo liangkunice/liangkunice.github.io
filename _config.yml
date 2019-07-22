@@ -1,5 +1,5 @@
 # Site settings
-title: 学无止境
+size: 24
 SEOTitle: 梁昆的博客 | Liangkun Blog
 header-img: img/background.png
 email: lycien@sjtu.edu.cn
@@ -78,7 +78,7 @@ ga_domain: liangkun.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "学无止境"
+sidebar-about-description: "这是梁昆的空间"
 sidebar-avatar: /img/background1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
