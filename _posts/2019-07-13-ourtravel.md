@@ -14,25 +14,29 @@ tags:
 ## We gonna be happy for the rest of our lives 😋😋😋
 ![from the begining](http://ww2.sinaimg.cn/large/006tNc79ly1g4uomz8hvrj30d80jgjt9.jpg)
 
+<center>我想要带你去浪漫的土耳其<center>
+
 <center>
 
-
-我想要带你去浪漫的土耳其
-
 然后一起去东京和巴黎
-
+<center><center>
 其实我特别喜欢迈阿密
-
+<center><center>
 和有黑人的洛杉矶
-
+<center><center>
 其实亲爱的你不必太过惊奇
-
+<center><center>
 一起去繁华的上海和北京
-
+<center><center>
 还有云南的大理保留着回忆
-
+<center><center>
 这样才有意义
-</center>
+<center>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="../music/带你去旅行.mp3">
+      </audio>
+
 
 ### 笨蛋自拍
 
