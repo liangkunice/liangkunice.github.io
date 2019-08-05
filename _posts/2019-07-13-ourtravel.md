@@ -14,10 +14,8 @@ tags:
 ## We gonna be happy for the rest of our lives 😋😋😋
 ![from the begining](http://ww2.sinaimg.cn/large/006tNc79ly1g4uomz8hvrj30d80jgjt9.jpg)
 
-<center>我想要带你去浪漫的土耳其<center>
-
-<center>
-
+<center>我想要带你去浪漫的土耳其
+<center><center>
 然后一起去东京和巴黎
 <center><center>
 其实我特别喜欢迈阿密
@@ -34,7 +32,7 @@ tags:
 <center>
 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="../music/带你去旅行.mp3">
+      <source id="mp3" src="/Users/liangkun/Documents/program/githubBlog/liangkunice.github.io/music/take_you_to_travel.mp3">
       </audio>
 
 
