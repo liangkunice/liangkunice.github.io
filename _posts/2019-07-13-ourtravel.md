@@ -14,6 +14,7 @@ tags:
 ## We gonna be happy for the rest of our lives 😋😋😋
 ![from the begining](http://ww2.sinaimg.cn/large/006tNc79ly1g4uomz8hvrj30d80jgjt9.jpg)
 
+<!--
 <center>我想要带你去浪漫的土耳其
 <center><center>
 然后一起去东京和巴黎
@@ -35,6 +36,7 @@ tags:
 <audio controls="" loop="false" preload="none">
     <source src="take_you_to_travel.mp3" type="audio/mp3">
 </audio>
+-->
 
 ### 笨蛋自拍
 
