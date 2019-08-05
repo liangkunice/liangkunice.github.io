@@ -38,6 +38,8 @@ tags:
 </audio>
 -->
 
+<EMBED src="take_you_to_travel.mp3" autostart="false" loop="true" width="80" height="20">
+
 ### 笨蛋自拍
 
 ![zipai1](http://ww4.sinaimg.cn/large/006tNc79ly1g5mitgkwn4j30f00qogpf.jpg)
