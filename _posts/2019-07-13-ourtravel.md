@@ -31,10 +31,10 @@ tags:
 这样才有意义
 <center>
 
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/Users/liangkun/Documents/program/githubBlog/liangkunice.github.io/music/take_you_to_travel.mp3">
-      </audio>
 
+<audio controls="" loop="false" preload="none">
+    <source src="take_you_to_travel.mp3" type="audio/mp3">
+</audio>
 
 ### 笨蛋自拍
 
@@ -42,9 +42,6 @@ tags:
 
 ![zipai2](http://ww4.sinaimg.cn/large/006tNc79ly1g5mitl6z0zj30ci0m8408.jpg)
 
-![zipai3]()
-
-![zipai4]()
 
 ### 我拍笨蛋
 ![wopai](http://ww3.sinaimg.cn/large/006tNc79ly1g5mit9athaj30u01404qq.jpg)
