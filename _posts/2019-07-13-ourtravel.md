@@ -32,13 +32,14 @@ tags:
 这样才有意义
 <center>
 
--->
+
 <audio controls="" loop="false" preload="none">
     <source src="take_you_to_travel.mp3" type="audio/mp3">
 </audio>
 
 
-<EMBED src="take_you_to_travel.mp3" autostart="false" loop="true" width="80" height="20">
+<EMBED src="take_you_to_travel.mp3" autostart="false" loop="false" width="80" height="20">
+-->
 
 ### 笨蛋自拍
 
