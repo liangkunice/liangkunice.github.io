@@ -1,0 +1,86 @@
+I"�<h2 id="声子振动">声子振动</h2>
+
+<p>1.为什么德拜模型在低温表现好？</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>因为低温只有长波长的声学模式才能被激发，这是具有较低能量的激发。短波长的能量很高，在低温不被占据。
+长波长在连续统假设中适用较好。
+</code></pre></div></div>
+
+<h2 id="能带">能带</h2>
+
+<ol>
+  <li>
+    <p>费米面</p>
+
+    <p>基态下电子最高能级被填充的能级面</p>
+  </li>
+  <li>
+    <p>能带理论假设</p>
+
+    <p>近自由电子气体，在周期势场中的受到微扰。</p>
+  </li>
+</ol>
+
+<h2 id="超导体">超导体</h2>
+
+<ol>
+  <li>
+    <p>二流体模型</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 一种正常电子和一种超导电子构成了材料中的电子
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>伦敦方程，金兹堡朗道方程</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 伦敦方程描述了超导磁场穿透材料的深度
+ 朗道金兹堡描述了超导转变是二级相变
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>BCS理论</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 一个电子和另一个电子通过发射和接受虚声子间接产生相互作用，由于其传递能量高于声子简正模能量，因此此能量不会被晶格吸收，无能量损耗。由于是长程相互作用，不会和晶格散射。
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>约瑟夫森结</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 两个超导体中夹一个绝缘体，绝缘体中出现电流，但两侧无电势差，由于电子隧穿
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>第一第二类超导体</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 超导区电子像自由区渗透，具有高于费米面的能量，提高高温超导体自由能  磁穿透表面使得表面电子排列有序，降低自由能
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>hubbard 模型</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 固体物理中的晶格哈密顿量可以由两部分组成，一部分是电子的动能，一部分是电子之间的库仑势。 
+ 当电子的相互作用增强，能级会被两个电子劈裂，导致费米能级在能隙中，成为绝缘体。
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Mott 绝缘体</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 在hubbard模型中，当电子的相互作用增强，能级会被两个电子劈裂，导致费米能级在能隙中，成为绝缘体。
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>TJ 模型</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 哈密顿量由近邻跃迁的能量和电子自旋相互作用的能量构成
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>超流</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 在很低的温度下，玻色子会共享量子态，达到最低能态的波色爱因斯坦分布
+ 超流过程中，费米子配对等效形成玻色子，呈现超流态
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+:ET
